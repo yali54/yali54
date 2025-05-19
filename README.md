@@ -1,6 +1,6 @@
 # 关于雅礼中学五一违规补课
 
-## [关于某些极端的家长 详见此](https://lcx.yali54.icu)
+## [关于某些极端的家长 详见此](https://github.com/yali54/parents)
 
 > 雅礼5.1放假事件
 >
